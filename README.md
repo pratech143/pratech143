@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratik Chapagain
 - 👀 I’m interested frontend development
-- 🌱 I’m currently learning javascript and react
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking for internship.
 - 📫 How to reach me ...
 
